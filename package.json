@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-battery-optimizations",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "com.kaminosoft.batteryoptimazations",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "jumanor",
+  "license": "ISC"
+}
